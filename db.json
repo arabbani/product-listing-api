@@ -54,7 +54,7 @@
       ]
     },
     {
-      "id": 2
+      "id": 2,
       "name": "Samsung Galaxy S",
       "count": 5,
       "price": 599,
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "id": 3
+      "id": 3,
       "name": "Oppo Reno 5",
       "count": 8,
       "price": 499,
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "id": 4
+      "id": 4,
       "name": "Vivo v1",
       "count": 0,
       "price": 799,
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "id": 5
+      "id": 5,
       "name": "Surface Pro",
       "count": 10,
       "price": 899,
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "id": 6
+      "id": 6,
       "name": "Macbbok Air",
       "count": 3,
       "price": 749,

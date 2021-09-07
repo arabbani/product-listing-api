@@ -1,0 +1,162 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone X",
+      "seller": "Seller A"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S",
+      "seller": "Seller B"
+    },
+    {
+      "id": 3,
+      "name": "Oppo Reno 5",
+      "seller": "Seller B"
+    },
+    {
+      "id": 4,
+      "name": "Vivo v1",
+      "seller": "Seller A"
+    },
+    {
+      "id": 5,
+      "name": "Surface Pro",
+      "seller": "Seller A"
+    },
+    {
+      "id": 6,
+      "name": "Macbbok Air",
+      "seller": "Seller C
+    }
+  ],
+  "productDescription": [
+    {
+      "id": 1,
+      "name": "iPhone X",
+      "count": 10,
+      "price": 999,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius. Pellentesque sit amet urna est. Vestibulum at tortor enim. Suspendisse consectetur convallis lorem, id rhoncus leo condimentum at. Curabitur tincidunt placerat nulla vitae sagittis. Quisque eu aliquet dolor. Morbi id massa tincidunt, aliquet ligula non, auctor dolor. Pellentesque.",
+      "reviews": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius.",
+          "by": "User A"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet",
+          "by": "User B"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "by": "User C"
+        }
+      ]
+    },
+    {
+      "id": 2
+      "name": "Samsung Galaxy S",
+      "count": 5,
+      "price": 599,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius. Pellentesque sit amet urna est. Vestibulum at tortor enim. Suspendisse consectetur convallis lorem, id rhoncus leo condimentum at. Curabitur tincidunt placerat nulla vitae sagittis. Quisque eu aliquet dolor. Morbi id massa tincidunt, aliquet ligula non, auctor dolor. Pellentesque.",
+      "reviews": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius.",
+          "by": "User B"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet",
+          "by": "User C"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "by": "User D"
+        }
+      ]
+    },
+    {
+      "id": 3
+      "name": "Oppo Reno 5",
+      "count": 8,
+      "price": 499,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius. Pellentesque sit amet urna est. Vestibulum at tortor enim. Suspendisse consectetur convallis lorem, id rhoncus leo condimentum at. Curabitur tincidunt placerat nulla vitae sagittis. Quisque eu aliquet dolor. Morbi id massa tincidunt, aliquet ligula non, auctor dolor. Pellentesque.",
+      "reviews": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius.",
+          "by": "User A"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet",
+          "by": "User B"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "by": "User C"
+        }
+      ]
+    },
+    {
+      "id": 4
+      "name": "Vivo v1",
+      "count": 0,
+      "price": 799,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius. Pellentesque sit amet urna est. Vestibulum at tortor enim. Suspendisse consectetur convallis lorem, id rhoncus leo condimentum at. Curabitur tincidunt placerat nulla vitae sagittis. Quisque eu aliquet dolor. Morbi id massa tincidunt, aliquet ligula non, auctor dolor. Pellentesque.",
+      "reviews": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius.",
+          "by": "User D"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet",
+          "by": "User C"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "by": "User A"
+        }
+      ]
+    },
+    {
+      "id": 5
+      "name": "Surface Pro",
+      "count": 10,
+      "price": 899,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius. Pellentesque sit amet urna est. Vestibulum at tortor enim. Suspendisse consectetur convallis lorem, id rhoncus leo condimentum at. Curabitur tincidunt placerat nulla vitae sagittis. Quisque eu aliquet dolor. Morbi id massa tincidunt, aliquet ligula non, auctor dolor. Pellentesque.",
+      "reviews": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius.",
+          "by": "User A"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet",
+          "by": "User B"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "by": "User C"
+        }
+      ]
+    },
+    {
+      "id": 6
+      "name": "Macbbok Air",
+      "count": 3,
+      "price": 749,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius. Pellentesque sit amet urna est. Vestibulum at tortor enim. Suspendisse consectetur convallis lorem, id rhoncus leo condimentum at. Curabitur tincidunt placerat nulla vitae sagittis. Quisque eu aliquet dolor. Morbi id massa tincidunt, aliquet ligula non, auctor dolor. Pellentesque.",
+      "reviews": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius.",
+          "by": "User C"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet",
+          "by": "User A"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "by": "User D"
+        }
+      ]
+    }
+  ]
+}

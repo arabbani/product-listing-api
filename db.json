@@ -63,14 +63,6 @@
         {
           "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius.",
           "by": "User B"
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet",
-          "by": "User C"
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "by": "User D"
         }
       ]
     },
@@ -92,6 +84,10 @@
         {
           "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           "by": "User C"
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "by": "User D"
         }
       ]
     },
@@ -109,10 +105,6 @@
         {
           "text": "Lorem ipsum dolor sit amet",
           "by": "User C"
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "by": "User A"
         }
       ]
     },
@@ -122,20 +114,7 @@
       "count": 10,
       "price": 899,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius. Pellentesque sit amet urna est. Vestibulum at tortor enim. Suspendisse consectetur convallis lorem, id rhoncus leo condimentum at. Curabitur tincidunt placerat nulla vitae sagittis. Quisque eu aliquet dolor. Morbi id massa tincidunt, aliquet ligula non, auctor dolor. Pellentesque.",
-      "reviews": [
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin rutrum varius.",
-          "by": "User A"
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet",
-          "by": "User B"
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "by": "User C"
-        }
-      ]
+      "reviews": []
     },
     {
       "id": 6,
